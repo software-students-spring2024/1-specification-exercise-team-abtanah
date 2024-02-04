@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Abhi Vachani - [GitHub Profile](https://github.com/avachani)
+Abhi Vachani - [GitHub Profile](https://github.com/avachani) <br>
 Ahmad Almesned - [GitHub Profile](https://github.com/Ahmadhcs)
 
 ## Stakeholders
