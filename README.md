@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Ahmad Almesned - [GitHub Profile] (https://github.com/Ahmadhcs)
+Ahmad Almesned - [GitHub Pages](https://pages.github.com/)
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
