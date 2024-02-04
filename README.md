@@ -9,7 +9,11 @@ Ahmad Almesned - [GitHub Profile](https://github.com/Ahmadhcs)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Stakeholder:  <br>
+
+Goals and Needs: <br>
+
+Problems and Frustrations: 
 
 ## Product Vision Statement
 
