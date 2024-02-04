@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Abhi Vachani - [GitHub Profile](https://github.com/avachani) <br>
 Ahmad Almesned - [GitHub Profile](https://github.com/Ahmadhcs) <br>
-Francisco Cunningham - [GitHub Profile](GitHub.com/fctico11)
+Francisco Cunningham - [GitHub Profile](https://GitHub.com/fctico11)
 
 ## Stakeholders
 
