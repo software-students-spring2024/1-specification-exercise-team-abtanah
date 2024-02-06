@@ -14,7 +14,10 @@ Tanuj Sistla - [GitHub Profile](https://github.com/tanuj123-cyber) <br>
 Stakeholder:  <br>
 
 Goals and Needs: <br>
-* 
+* Easier access to payment process for parking spots
+* Viewing real-time parking occupancy 
+* Personal parking history access 
+
 
 Problems and Frustrations: 
 
