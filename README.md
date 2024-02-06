@@ -17,9 +17,13 @@ Goals and Needs: <br>
 * Easier access to payment process for parking spots
 * Viewing real-time parking occupancy 
 * Personal parking history access 
+* Centralized app for finding and paying parking spots
 
 
 Problems and Frustrations: 
+* Difficulty finding parking spots in major locations
+* Problems with 3rd party parking apps 
+* No centralized process/app for finding parking spots 
 
 ## Product Vision Statement
 
