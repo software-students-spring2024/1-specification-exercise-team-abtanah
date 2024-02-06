@@ -23,7 +23,17 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a [type of user], I want [some goal] so that [some reason] <br>
+2. As a [type of user], I want [some goal] so that [some reason] <br>
+3. As a [type of user], I want [some goal] so that [some reason] <br>
+4. As a [type of user], I want [some goal] so that [some reason] <br>
+5. As a [type of user], I want [some goal] so that [some reason] <br>
+6. As a [type of user], I want [some goal] so that [some reason] <br>
+7. As a [type of user], I want [some goal] so that [some reason] <br>
+8. As a [type of user], I want [some goal] so that [some reason] <br>
+9. As a [type of user], I want [some goal] so that [some reason] <br>
+10. As a [type of user], I want [some goal] so that [some reason] <br>
+
 
 ## Activity Diagrams
 
