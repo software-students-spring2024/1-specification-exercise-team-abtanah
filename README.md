@@ -31,16 +31,16 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-1. As a [type of user], I want [some goal] so that [some reason] <br>
-2. As a [type of user], I want [some goal] so that [some reason] <br>
-3. As a [type of user], I want [some goal] so that [some reason] <br>
-4. As a [type of user], I want [some goal] so that [some reason] <br>
-5. As a [type of user], I want [some goal] so that [some reason] <br>
-6. As a [type of user], I want [some goal] so that [some reason] <br>
-7. As a [type of user], I want [some goal] so that [some reason] <br>
-8. As a [type of user], I want [some goal] so that [some reason] <br>
-9. As a [type of user], I want [some goal] so that [some reason] <br>
-10. As a [type of user], I want [some goal] so that [some reason] <br>
+1. As a car driver, I want an organized list of car parking spaces so that I can efficiently find a parking spot. <br>
+2. As a car driver, I want easy access to my frequently used parking spaces so that I don’t waste time searching for them. <br>
+3. As a car driver, I want an easy and seamless process of paying for my parking spot so that all my parking payments are done through one app.  <br>
+4. As a car driver, I want to earn loyalty points so that I save money over time. <br>
+5. As a car driver, I want a centralized app for all parking processes so that I don't have to use multiple apps at once.  <br>
+6. As a car driver, I want to view real time parking occupancy so that I can make sure I get a spot. <br>
+7. As a tourist, I want to find the closest parking to major attractions so that I can minimize walking distances. <br>
+8. As a car driver, I want to receive alerts when my parking session is about to expire so that I can extend it remotely and avoid fines. <br>
+9. As a commuter, I want to view occupancy rates of parking lots near my destination before I leave so that I can plan my trip accordingly. <br>
+10. As a frequent parker, I want to store my payment information securely in the app to make future payments more convenient. <br>
 
 
 ## Activity Diagrams
