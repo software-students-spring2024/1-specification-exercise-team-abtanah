@@ -41,6 +41,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 8. As a car driver, I want to receive alerts when my parking session is about to expire so that I can extend it remotely and avoid fines. <br>
 9. As a commuter, I want to view occupancy rates of parking lots near my destination before I leave so that I can plan my trip accordingly. <br>
 10. As a frequent parker, I want to store my payment information securely in the app to make future payments more convenient. <br>
+11. As a frequent parker, I want to store my vehicle information securely in the app to make future parking more convenient. <br>
 
 
 ## Activity Diagrams
