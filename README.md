@@ -50,4 +50,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-[Clickable Prototype](https://www.figma.com/proto/WNpFjDCfRtZ2hW2zbNGUbA/Parking-App?type=design&node-id=5-5&t=51bLqd1cbTVW5iBr-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A5&mode=design) <br>
+[Click Here For Prototype](https://www.figma.com/proto/WNpFjDCfRtZ2hW2zbNGUbA/Parking-App?type=design&node-id=5-5&t=51bLqd1cbTVW5iBr-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A5&mode=design) <br>
