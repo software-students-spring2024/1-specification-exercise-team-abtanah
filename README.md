@@ -46,7 +46,7 @@ Our app is designed to streamline the parking experience by offering real-time o
 
 ## Activity Diagrams
 
-
+[Payment UML](images/payment.drawio.png)
 
 ## Clickable Prototype
 
