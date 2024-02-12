@@ -49,7 +49,7 @@ Payments UML:
 ![Payment UML](images/payment.drawio.png)
 
 Parking UML:
-![Parking UML](images/parking.png)
+![Parking UML](images/Parking.drawio.png)
 
 ## Clickable Prototype
 
