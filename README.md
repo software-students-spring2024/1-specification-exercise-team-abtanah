@@ -46,8 +46,6 @@ Our app is designed to streamline the parking experience by offering real-time o
 
 ## Activity Diagrams
 
-file:///Users/abhishekvachani/Desktop/Screenshot%202024-02-12%20at%2012.59.11%E2%80%AFPM.png
-
 
 
 ## Clickable Prototype
